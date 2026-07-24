@@ -1,0 +1,19 @@
+n = int(input("enter a number"))
+
+if n >= 90:
+    print("excellent performance.")
+
+elif n >= 80:
+    print("very good performance")
+
+elif n >= 70:
+    print(" good performance")
+
+elif n >= 60:
+    print("average performance")  
+
+else:
+    print("poor performance")
+    
+
+   
